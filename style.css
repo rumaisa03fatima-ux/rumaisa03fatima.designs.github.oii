@@ -1,0 +1,46 @@
+/* This styles the whole page */
+body {
+  background-color: #07145880;
+  font-family: serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+/* Style the main heading */
+h1 {
+  text-align: center;
+  color: #000000;
+  text-shadow: 8px 8px 10px #060555;
+}
+/*style the paragraph*/
+p {
+    text-align: center;
+    text-size-adjust: 30px;
+    color: #000000;
+    font-family: 'bold serif';
+    font-weight: bold; 
+    text-shadow: 3px 2px 3px #24278a;
+}
+
+/* Style the movie list */
+ul {
+    color: #000;
+  list-style: none; /* remove default bullets */
+  padding: 0;
+}
+
+li {
+    color: #131444;
+  margin-bottom: 30px;
+  text-align: center;
+  text-size-adjust: 35px;
+}
+h2 {
+    text-align: center;
+}
+
+/* Make images look neat */
+img {
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(26, 16, 117, 0.2);
+}
